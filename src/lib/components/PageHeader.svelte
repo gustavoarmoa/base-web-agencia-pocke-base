@@ -22,7 +22,7 @@
             <Toggler class="dropdown dropdown-lg dropdown-right dropdown-nowrap responsive-menu-dropdown">
                 <a href="#" class="dropdown-item">Sobre</a>
                 <a
-                    href={import.meta.env.PB_DISCUSSIONS_URL}
+                    href="#"
                     class="dropdown-item"
                     target="_blank"
                     rel="noreferrer noopener"
