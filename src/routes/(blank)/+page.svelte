@@ -436,11 +436,11 @@
                     target="_blank"
                     rel="noreferrer noopener"
                 >
-                    <span class="txt">Live demo</span>
+                    <span class="txt">Agendar demostração</span>
                 </a>
                 <div class="clearfix m-b-sm" />
                 <a href="/docs" class="btn btn-lg btn-outline btn-expanded scroll-reveal">
-                    <span class="txt">Read the documentation</span>
+                    <span class="txt">Falar com vendas</span>
                 </a>
             </div>
         </figure>
