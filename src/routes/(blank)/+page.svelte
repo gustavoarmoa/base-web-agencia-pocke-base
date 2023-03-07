@@ -364,7 +364,7 @@
 </script>
 
 <svelte:head>
-    <title>PocketBase - Open Source backend in 1 file</title>
+    <title>Agência Digital Proideas</title>
 </svelte:head>
 
 <svelte:window on:mousemove={onMousemove} on:resize={handleResize} />
@@ -374,12 +374,12 @@
 
     <div class="wrapper wrapper-lg">
         <div class="hero-content">
-            <div class="content-row">Open Source backend</div>
+            <div class="content-row">Solução para seu próximo</div>
             <div class="content-row responsive-hide">
-                for your next <strong>SaaS</strong> and <strong>Mobile app</strong>
+                projeto <strong>SaaS</strong>, <strong>E-commerce</strong> e <strong>Infoproduto</strong>
             </div>
             <div class="content-row highlight">
-                <strong>in 1 file</strong>
+                em um só lugar
             </div>
         </div>
 
