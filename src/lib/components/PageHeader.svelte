@@ -8,7 +8,7 @@
     <div class="wrapper wrapper-lg">
         <a href="/" class="logo" class:logo-sm={compact}>
             <img src="/images/logo.svg" alt="PocketBase logo" width="40" height="40" />
-            <span class="txt">Pocket<strong>Base</strong></span>
+            <span class="txt">Agência <strong>Proideas</strong></span>
             <span class="version">{import.meta.env.PB_VERSION}</span>
         </a>
 
@@ -20,16 +20,16 @@
             <span />
             <i class="ri-menu-3-fill" />
             <Toggler class="dropdown dropdown-lg dropdown-right dropdown-nowrap responsive-menu-dropdown">
-                <a href="/faq" class="dropdown-item">FAQ</a>
+                <a href="/faq" class="dropdown-item">Sobre</a>
                 <a
                     href={import.meta.env.PB_DISCUSSIONS_URL}
                     class="dropdown-item"
                     target="_blank"
                     rel="noreferrer noopener"
                 >
-                    Discussions
+                    Serviços
                 </a>
-                <a href="/support-us" class="dropdown-item">Support us</a>
+                <a href="/support-us" class="dropdown-item">Suporte</a>
                 <hr />
                 <a href="/docs" class="dropdown-item">
                     <span class="txt">Documentation</span>

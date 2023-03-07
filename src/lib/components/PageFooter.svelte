@@ -82,8 +82,8 @@
             </div>
             <div class="flex-fill" />
             <div class="credit">
-                Crafted by <a href="https://gani.bg" target="_blank" rel="noopener noreferrer" class="link-hint">
-                    <strong>Gani</strong>
+                Crafted by <a href="#" target="_blank" rel="noopener noreferrer" class="link-hint">
+                    <strong>Boxsales</strong>
                 </a>
             </div>
         </div>
