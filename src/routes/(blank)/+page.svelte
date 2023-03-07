@@ -386,19 +386,19 @@
         <div class="hero-checks">
             <div class="check-item">
                 <i class="ri-check-line" />
-                <span class="txt">Realtime database</span>
+                <span class="txt">Dados em tempo real</span>
             </div>
             <div class="check-item">
                 <i class="ri-check-line" />
-                <span class="txt">Authentication</span>
+                <span class="txt">Autenticação</span>
             </div>
             <div class="check-item">
                 <i class="ri-check-line" />
-                <span class="txt">File storage</span>
+                <span class="txt">Nuvem</span>
             </div>
             <div class="check-item">
                 <i class="ri-check-line" />
-                <span class="txt">Admin dashboard</span>
+                <span class="txt">Dashboard Simples</span>
             </div>
         </div>
 
@@ -451,7 +451,7 @@
 
 <div class="wrapper wrapper-lg">
     <section class="landing-section m-t-45 scroll-reveal">
-        <h2 class="landing-title">Ready to use out of the box</h2>
+        <h2 class="landing-title">Pronto para uma nova experiencia</h2>
 
         <div class="features-section">
             <nav class="features-tabs">
@@ -524,8 +524,8 @@
                         </p>
                     </div>
                 </button>
-                <a href="/docs" class="btn btn-secondary btn-lg btn-block btn-next">
-                    <span class="txt">Explore all features</span>
+                <a href="#" class="btn btn-secondary btn-lg btn-block btn-next">
+                    <span class="txt">Conheça todas as funções</span>
                     <i class="ri-arrow-right-line" />
                 </a>
             </nav>
