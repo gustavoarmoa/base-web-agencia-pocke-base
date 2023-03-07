@@ -15,11 +15,11 @@
     <div class="wrapper wrapper-lg">
         <div class="primary-bar">
             <nav class="footer-col links">
-                <a href="/faq" class="link-item">FAQ</a>
+                <a href="/faq" class="link-item">Sobre</a>
                 <a href={import.meta.env.PB_DISCUSSIONS_URL} class="link-item" target="_blank" rel="noopener noreferrer">
-                    Discussions
+                    Serviços
                 </a>
-                <a href="/support-us" class="link-item">Support us</a>
+                <a href="/support-us" class="link-item">Suporte</a>
             </nav>
 
             <nav class="footer-col links">
@@ -33,7 +33,7 @@
             </nav>
 
             <div class="footer-col socials">
-                <div class="watermark-logo">Pocket<strong>Base</strong></div>
+                <div class="watermark-logo">Agência <strong>Proideas</strong></div>
                 <a
                     href="mailto:{supportEmail}"
                     class="btn btn-secondary btn-circle btn-hint social-item"
@@ -67,7 +67,7 @@
         <div class="secondary-bar">
             <div class="terms">
                 <span class="txt">
-                    © {new Date().getFullYear()} Pocket<strong>Base</strong>
+                    © {new Date().getFullYear()} Agência <strong>Proideas</strong>
                 </span>
                 <span class="gopher-credit">
                     Todos os direitos reservados
