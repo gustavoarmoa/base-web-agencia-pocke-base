@@ -70,13 +70,13 @@
                     © {new Date().getFullYear()} Pocket<strong>Base</strong>
                 </span>
                 <span class="gopher-credit">
-                    The Gopher artwork is from
+                    Todos os direitos reservados
                     <a
-                        href="https://github.com/marcusolsson/gophers"
+                        href="#"
                         target="_blank"
                         rel="noreferrer noopener"
                     >
-                        marcusolsson/gophers
+                        Termos de uso
                     </a>
                 </span>
             </div>
