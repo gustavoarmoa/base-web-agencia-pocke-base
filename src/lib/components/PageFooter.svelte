@@ -16,7 +16,7 @@
         <div class="primary-bar">
             <nav class="footer-col links">
                 <a href="/" class="link-item">Sobre</a>
-                <a href={import.meta.env.PB_DISCUSSIONS_URL} class="link-item" target="_blank" rel="noopener noreferrer">
+                <a href="/" class="link-item" target="_blank" rel="noopener noreferrer">
                     Serviços
                 </a>
                 <a href="/" class="link-item">Suporte</a>
