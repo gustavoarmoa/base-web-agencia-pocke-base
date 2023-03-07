@@ -15,19 +15,19 @@
     <div class="wrapper wrapper-lg">
         <div class="primary-bar">
             <nav class="footer-col links">
-                <a href="#" class="link-item">Sobre</a>
+                <a href="/" class="link-item">Sobre</a>
                 <a href={import.meta.env.PB_DISCUSSIONS_URL} class="link-item" target="_blank" rel="noopener noreferrer">
                     Serviços
                 </a>
-                <a href="#" class="link-item">Suporte</a>
+                <a href="/" class="link-item">Suporte</a>
             </nav>
 
             <nav class="footer-col links">
-                <a href="#" class="link-item">Materiais</a>
-                <a href={import.meta.env.PB_JS_SDK_URL} class="link-item" target="_blank" rel="noopener noreferrer">
+                <a href="/" class="link-item">Materiais</a>
+                <a href="/" class="link-item" target="_blank" rel="noopener noreferrer">
                     JavaScript SDK
                 </a>
-                <a href={import.meta.env.PB_DART_SDK_URL} class="link-item" target="_blank" rel="noopener noreferrer">
+                <a href="/" class="link-item" target="_blank" rel="noopener noreferrer">
                     Dart SDK
                 </a>
             </nav>
@@ -43,7 +43,7 @@
                     <i class="ri-mail-line" />
                 </a>
                 <a
-                    href={import.meta.env.PB_TWITTER_URL}
+                    href="/"
                     rel="noopener noreferrer"
                     target="_blank"
                     class="btn btn-secondary btn-circle btn-hint social-item"
@@ -53,7 +53,7 @@
                     <i class="ri-twitter-line" />
                 </a>
                 <a
-                    href={import.meta.env.PB_REPO_URL}
+                    href="/"
                     rel="noopener noreferrer"
                     target="_blank"
                     class="btn btn-secondary btn-circle btn-hint social-item"
@@ -72,7 +72,7 @@
                 <span class="gopher-credit">
                     Todos os direitos reservados
                     <a
-                        href="#"
+                        href="/"
                         target="_blank"
                         rel="noreferrer noopener"
                     >
@@ -82,7 +82,7 @@
             </div>
             <div class="flex-fill" />
             <div class="credit">
-                Crafted by <a href="#" target="_blank" rel="noopener noreferrer" class="link-hint">
+                Crafted by <a href="/" target="_blank" rel="noopener noreferrer" class="link-hint">
                     <strong>Boxsales</strong>
                 </a>
             </div>
