@@ -15,15 +15,15 @@
     <div class="wrapper wrapper-lg">
         <div class="primary-bar">
             <nav class="footer-col links">
-                <a href="/faq" class="link-item">Sobre</a>
+                <a href="#" class="link-item">Sobre</a>
                 <a href={import.meta.env.PB_DISCUSSIONS_URL} class="link-item" target="_blank" rel="noopener noreferrer">
                     Serviços
                 </a>
-                <a href="/support-us" class="link-item">Suporte</a>
+                <a href="#" class="link-item">Suporte</a>
             </nav>
 
             <nav class="footer-col links">
-                <a href="/docs" class="link-item">Documentation</a>
+                <a href="#" class="link-item">Materiais</a>
                 <a href={import.meta.env.PB_JS_SDK_URL} class="link-item" target="_blank" rel="noopener noreferrer">
                     JavaScript SDK
                 </a>
