@@ -38,16 +38,16 @@
         </button>
 
         <nav class="main-menu">
-            <a href="/faq" class="btn btn-secondary">FAQ</a>
+            <a href="/faq" class="btn btn-secondary">Sobre</a>
             <a
                 href={import.meta.env.PB_DISCUSSIONS_URL}
                 class="btn btn-secondary"
                 target="_blank"
                 rel="noreferrer noopener"
             >
-                Discussions
+                Serviços
             </a>
-            <a href="/support-us" class="btn btn-secondary">Support us</a>
+            <a href="/support-us" class="btn btn-secondary">Suporte</a>
             <a
                 href={import.meta.env.PB_REPO_URL}
                 class="btn btn-circle btn-secondary"
@@ -58,7 +58,7 @@
                 <i class="ri-github-line" />
             </a>
             <a href="/docs" class="btn btn-outline btn-expanded">
-                <span class="txt">Documentation</span>
+                <span class="txt">Agendar Reunião</span>
             </a>
         </nav>
     </div>
