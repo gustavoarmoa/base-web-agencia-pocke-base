@@ -559,7 +559,7 @@
         <h2 class="landing-title">Conheça as tecnologias que usamos na Proideas</h2>
         <div class="logos-list">
             <a
-                href={import.meta.env.PB_DART_SDK_URL}
+                href="/"
                 target="_blank"
                 rel="noreferrer noopener"
                 class="list-item"
