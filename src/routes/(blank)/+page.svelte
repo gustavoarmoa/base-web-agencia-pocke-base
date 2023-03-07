@@ -556,7 +556,7 @@
     </section>
 
     <section class="landing-section txt-center scroll-reveal">
-        <h2 class="landing-title">Integrate nicely with your favorite frontend stack</h2>
+        <h2 class="landing-title">Conheça as tecnologias que usamos na Proideas</h2>
         <div class="logos-list">
             <a
                 href={import.meta.env.PB_DART_SDK_URL}
