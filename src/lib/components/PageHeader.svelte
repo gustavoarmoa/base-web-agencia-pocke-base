@@ -40,7 +40,7 @@
         <nav class="main-menu">
             <a href="#" class="btn btn-secondary">Sobre</a>
             <a
-                href={import.meta.env.PB_DISCUSSIONS_URL}
+                href="#"
                 class="btn btn-secondary"
                 target="_blank"
                 rel="noreferrer noopener"
@@ -49,7 +49,7 @@
             </a>
             <a href="#" class="btn btn-secondary">Suporte</a>
             <a
-                href={import.meta.env.PB_REPO_URL}
+                href="#"
                 class="btn btn-circle btn-secondary"
                 target="_blank"
                 rel="noreferrer noopener"
